@@ -1,2 +1,3 @@
 # sahilproject-owner
-This is a repositary for project .
+This is a Repositary for Project .
+Author - Sahil From Jamia Millia Islamia New Delhi 
